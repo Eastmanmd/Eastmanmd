@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="progress-bar.svg" alt="Loading bar" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=24&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Ali;Senior+Bioinformatics+Analyst+at+NYGC" alt="Typing SVG" />
 </p>
 
